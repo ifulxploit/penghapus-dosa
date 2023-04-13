@@ -1,6 +1,8 @@
 # Program Membersihkan Folder Download
 <center>
-![Sampah]("https://img.freepik.com/free-vector/scene-with-cat-rat-trashcan_1308-42715.jpg")
+![Sampah](https://img.freepik.com/free-vector/scene-with-cat-rat-trashcan_1308-42715.jpg)
+
+
 </center>
 
 ## Deskripsi
