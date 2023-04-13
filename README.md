@@ -39,4 +39,4 @@ Script ini akan membantu membersihkan folder yang diinginkan secara otomatis den
 Silakan kontribusikan untuk meningkatkan fungsi program ini. :>
 
 ## Lisensi
-Program ini dilisensikan di bawah [MIT License](https://opensource.org/licenses/MIT).
+Program ini dilisensikan di bawah [MIT License](https://github.com/ifulxploit/penghapus-dosa/blob/main/LICENSE).
