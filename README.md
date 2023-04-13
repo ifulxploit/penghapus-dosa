@@ -15,7 +15,7 @@ Script ini akan membantu membersihkan folder yang diinginkan secara otomatis den
 * Simpan kode program ke dalam file dengan ekstensi .lua.
 * Buka terminal atau command prompt.
 * Masuk ke direktori tempat file program disimpan.
-* Jalankan program dengan perintah `lua bersih.lua``lua bersih.lua`.
+* Jalankan program dengan perintah `lua bersih.lua`
 
 ### Linux atau macOS
 * Simpan kode program ke dalam file dengan ekstensi .lua.
